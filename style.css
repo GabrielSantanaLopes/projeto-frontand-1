@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+    height: 100vh;
+}
+main{
+    background-color: white;
+    padding: 6px;
+    height: 80vh;
+}
+.header-principal{
+    background-color: brown;
+    height: 10vh;
+}
+article header , article footer{
+    background-color: yellow;
+    
+}
+nav{
+    background-color: greenyellow;
+    padding: 20px;
+}
+nav ul{
+    background-color: blue;
+    padding: 8px;
+}
+nav ul li{
+    margin: 8px;
+    background-color: pink;
+}
+article{
+    background-color: blueviolet;
+    padding: 20px;
+    height: 100%;
+}
+.rodape-geral{
+    background-color: chartreuse;
+    height: 10vh;
+}
+article section{
+    background-color: azure;
+    margin-bottom: 20px;
+
+}
